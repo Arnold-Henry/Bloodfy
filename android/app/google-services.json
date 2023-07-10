@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "285949629036",
+    "project_id": "bloodfy-dc1f2",
+    "storage_bucket": "bloodfy-dc1f2.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:285949629036:android:922db807d3376324f8be49",
+        "android_client_info": {
+          "package_name": "com.example.bloodfy"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "285949629036-hto02fqv3q5m8j19k873h0i2k4q15mqo.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAmMCXi6bLvGeo84046fMppv4SNV5pDft8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "285949629036-hto02fqv3q5m8j19k873h0i2k4q15mqo.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
