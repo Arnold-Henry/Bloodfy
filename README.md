@@ -16,5 +16,4 @@ Features of APP:
 11. Time Slots for booking
 12. Booking will be according to seats and time.
 
-13. Some screen shots of App are here:
-14. 
+ Some screen shots of App are here:
