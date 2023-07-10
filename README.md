@@ -1,7 +1,7 @@
 # Bloodfy
-A Flutter Mobile App(IOS and Android) for barber booking management. The app have two modules Donor and Donation Center.
+A Flutter Mobile App(IOS and Android) for Blood donation. The app has two modules Donor and Donation Center.
 
-The app developed using Flutter and Firebase + Google Map APIs
+The app is developed using Flutter and Firebase + Google Map APIs
 
 Features of APP:
 
